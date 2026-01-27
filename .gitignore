@@ -1,0 +1,3 @@
+.idea/
+data/**
+!directory_name/.gitkeep
