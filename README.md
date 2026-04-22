@@ -5,8 +5,6 @@ The project focuses on data ingestion, transformation, modeling, and visualizati
 
 It includes Python-based ETL pipelines, curated datasets, and analytical models designed to support data exploration, reporting, and business intelligence use cases.
 
-![AEB Logo](docs/AEB.png)
-
 ## Objectives
 
 - Ingest and process open data published by AEB and the Brazilian Government
@@ -30,7 +28,7 @@ All datasets used in this project are publicly available through the Brazilian G
 
 ## Data Architecture and Flow
 
-![Diagram](docs/Diagram.png)
+![Diagram](docs/img/Diagram.png)
 
 The project follows a modern analytics architecture, from raw data ingestion to business intelligence consumption.
 

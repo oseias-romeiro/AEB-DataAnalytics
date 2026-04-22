@@ -5,7 +5,7 @@ import zipfile
 import pandas as pd
 
 DATA_GOV_URL = "https://www.gov.br/aeb/pt-br/acesso-a-informacao/dados-abertos/dados/objetos_espaciais_brasileiros_csv_2025.zip"
-LOCAL_DATA_PATH = "../data/Objetos Espaciais Brasileiros CSV 2025"
+LOCAL_DATA_PATH = "../../data/Objetos Espaciais Brasileiros CSV 2025"
 ONLINE_DOWNLOAD = False
 ADLS_ACCOUNT = getenv('ADLS_ACCOUNT')
 
